@@ -1,5 +1,0 @@
-#EXTM3U
-#
-# This placeholder file will be replaced by the build_personal_m3u.py script
-# when the GitHub Actions workflow runs. You can generate it manually by
-# running the script locally as described in the README.
