@@ -1,0 +1,6 @@
+# requirements.txt
+#
+# This project is designed to run with Python's standard library only.
+# No additional dependencies are strictly necessary for the build script.
+# However, having this file enables GitHub Actions to set up a virtual
+# environment properly.
